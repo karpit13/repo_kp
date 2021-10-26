@@ -1,0 +1,1 @@
+print("Plik a - zmiana 1")
